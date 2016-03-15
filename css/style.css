@@ -123,7 +123,10 @@ a.button {
 .h3_left {
 }
 
-.img_left {
+.img_left img {
+    width: 266px;
+    height: 180px;
+
 }
 
 .features h3 {
@@ -186,6 +189,13 @@ a.button {
 
 
 .big_box {
+    margin-left: 40px;
+    height: 184px;
+    width: 944px;
+    background-color: #6C7A89;
+    float: left;
+    position: absolute;
+    top: 1146px;
 }
 
 .big_box_left {
