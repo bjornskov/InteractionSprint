@@ -75,9 +75,7 @@ nav ul li a {
     border-radius: 2px;
     -webkit-background-clip: padding-box; /* for Safari */
     background-clip: padding-box;
-}
 
-.center_button a {
     font-family: ff-enzo-web, sans-serif;
     font-size: 25px;
     text-transform: uppercase;
@@ -91,8 +89,11 @@ nav ul li a {
     display: -webkit-box;
     -webkit-box-pack: center;
     -webkit-box-align: center;
-    position: relative;
-    top: 25px;
+}
+
+
+a.button {
+    text-decoration: none;
 }
 
 .center_button a:hover {
