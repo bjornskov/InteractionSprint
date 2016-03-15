@@ -77,7 +77,7 @@ nav ul li a {
     background-clip: padding-box;
 }
 
-.book_now a {
+.book_now {
     font-family: ff-enzo-web, sans-serif;
     font-size: 25px;
     text-transform: uppercase;
