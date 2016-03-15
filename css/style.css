@@ -119,7 +119,10 @@ a.button {
 .h3_left {
 }
 
-.img_left {
+.img_left img {
+    width: 266px;
+    height: 180px;
+
 }
 
 .features h3 {
