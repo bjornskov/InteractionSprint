@@ -122,7 +122,14 @@ a.button {
 .img_left {
 }
 
-.text_left {
+.features h3 {
+    margin-left: 18px;
+    font-size: 18px;
+    font-family: ff-enzo-web, sans-serif;
+    text-transform: uppercase;
+    font-weight: lighter;
+    color: #ececec;
+
 }
 
 
