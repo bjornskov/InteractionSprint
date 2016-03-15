@@ -177,6 +177,13 @@ a.button {
 
 
 .big_box {
+    margin-left: 40px;
+    height: 184px;
+    width: 944px;
+    background-color: #6C7A89;
+    float: left;
+    position: absolute;
+    top: 1146px;
 }
 
 .big_box_left {
