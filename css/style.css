@@ -106,13 +106,17 @@ a.button {
 
 .box_left {
     background-color: #6C7A89;
-    width: 301px;
-    height: 237px;
+    width: 265px;
+    height: 213px;
     position: absolute;
     top: 667px;
     z-index: 25;
     float: left;
     margin-left: 40px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 12px;
+    padding-bottom: 12px;
 
 }
 
@@ -123,11 +127,11 @@ a.button {
 }
 
 .features h3 {
-    margin-left: 18px;
     font-size: 18px;
     font-family: ff-enzo-web, sans-serif;
     text-transform: uppercase;
     font-weight: lighter;
+    margin: 0;
     color: #ececec;
 
 }
@@ -135,12 +139,16 @@ a.button {
 
 .box_mid {
     background-color: #6C7A89;
-    width: 301px;
-    height: 237px;
+    width: 265px;
+    height: 213px;
     position: absolute;
     top: 667px;
     z-index: 30;
     margin-left: 362px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 12px;
+    padding-bottom: 12px;
 }
 
 .h3_mid {
@@ -155,12 +163,16 @@ a.button {
 
 .box_right {
     background-color: #6C7A89;
-    width: 301px;
-    height: 237px;
+    width: 265px;
+    height: 213px;
     position: absolute;
     top: 667px;
     z-index: 35;
     margin-left: 683px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 12px;
+    padding-bottom: 12px;
 }
 
 .h3_right {
