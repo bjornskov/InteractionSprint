@@ -75,13 +75,24 @@ nav ul li a {
     border-radius: 2px;
     -webkit-background-clip: padding-box; /* for Safari */
     background-clip: padding-box;
+
+    font-family: ff-enzo-web, sans-serif;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #ececec;
+    display:-ms-flexbox;
+    -ms-flex-pack:center;
+    display:-moz-box;
+    -moz-box-pack:center;
+    -moz-box-align:center;
+    display: -webkit-box;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
 }
 
-<<<<<<< HEAD
-.book_now {
-=======
-.center_button a {
->>>>>>> origin/master
+
+a.center_button {
     font-family: ff-enzo-web, sans-serif;
     font-size: 25px;
     text-transform: uppercase;
