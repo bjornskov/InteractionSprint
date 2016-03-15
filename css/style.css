@@ -100,19 +100,19 @@ a.button {
     float: left;
 }
 
-.center_button a:hover {
-}
-
 
 .box_left {
     background-color: #6C7A89;
-    width: 265px;
-    height: 213px;
+    width: 301px;
+    height: 237px;
     position: absolute;
     top: 667px;
     z-index: 25;
     float: left;
     margin-left: 40px;
+}
+
+.boxes-inner {
     padding-left: 18px;
     padding-right: 18px;
     padding-top: 12px;
@@ -121,12 +121,23 @@ a.button {
 }
 
 .h3_left {
+    margin-left: 18px;
+    margin-top:12px;
 }
 
 .img_left img {
     width: 266px;
     height: 180px;
+    margin-left: 18px;
+    margin-top: 10px;
+}
 
+.text_left {
+    font-family: ff-enzo-web, sans-serif;
+    position: relative;
+    float: left;
+    top: 200px;
+    font-size: 15px;
 }
 
 .features h3 {
@@ -142,53 +153,66 @@ a.button {
 
 .box_mid {
     background-color: #6C7A89;
-    width: 265px;
-    height: 213px;
+    width: 301px;
+    height: 237px;
     position: absolute;
     top: 667px;
     z-index: 30;
     margin-left: 362px;
-    padding-left: 18px;
-    padding-right: 18px;
-    padding-top: 12px;
-    padding-bottom: 12px;
 }
 
 .h3_mid {
+    margin-left: 18px;
+    margin-top:12px;
 }
 
 .img_mid img {
     width: 266px;
     height: 180px;
+    margin-left: 18px;
+    margin-top: 10px;
+
 }
 
 .text_mid {
+    font-family: ff-enzo-web, sans-serif;
+    font-size: 15px;
+    position: relative;
+    float: left;
+    top: 200px;
 }
 
 
 .box_right {
     background-color: #6C7A89;
-    width: 265px;
-    height: 213px;
+    width: 301px;
+    height: 237px;
     position: absolute;
     top: 667px;
     z-index: 35;
     margin-left: 683px;
-    padding-left: 18px;
-    padding-right: 18px;
-    padding-top: 12px;
-    padding-bottom: 12px;
 }
 
 .h3_right {
+    margin-left: 18px;
+    margin-top:12px;
 }
 
 .img_right img {
     width: 266px;
     height: 180px;
+    margin-left: 18px;
+    margin-top: 10px;
+
 }
 
 .text_right {
+    font-family: ff-enzo-web, sans-serif;
+    font-size: 15px;
+    position: relative;
+    float: left;
+    top: 200px;
+    padding: 0px !important;
 }
 
 
@@ -213,4 +237,27 @@ a.button {
 
 
 .big_box_right {
+}
+
+footer {
+    background-color: #bdc3c7;
+    width: 1024px;
+    height: 182px;
+    position: absolute;
+    z-index: 45;
+    top: 1525px;
+}
+
+footer h3 {
+    font-family: ff-enzo-web, sans-serif;
+    font-size: 50px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+footer p {
+    font-family: ff-enzo-web, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    margin: 0px;
 }
