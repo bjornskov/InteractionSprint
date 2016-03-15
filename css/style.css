@@ -149,7 +149,9 @@ a.button {
 .h3_mid {
 }
 
-.img_mid {
+.img_mid img {
+    width: 266px;
+    height: 180px;
 }
 
 .text_mid {
@@ -169,7 +171,9 @@ a.button {
 .h3_right {
 }
 
-.img_right {
+.img_right img {
+    width: 266px;
+    height: 180px;
 }
 
 .text_right {
