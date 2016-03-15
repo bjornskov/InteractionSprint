@@ -191,26 +191,50 @@ a.button {
 .text_right {
 }
 
-
+/*
 .big_box {
     margin-left: 40px;
     height: 184px;
     width: 944px;
     background-color: #6C7A89;
-    float: left;
+    position: absolute;
+    top: 1146px;
+}
+*/
+/*
+.big_box_left {
+    margin-left: 40px;
+    height: 279px;
+    width: 472px;
+    background-color: #6C7A89;
+    position: absolute;
+    top: 1146px;
+}
+*/
+.input {
+    margin-left: 40px;
+    height: 184px;
+    width: 472px;
+    background-color: #6C7A89;
     position: absolute;
     top: 1146px;
 }
 
-.big_box_left {
-}
-
-.input {
-}
-
 .big_box_left_h3 {
+    margin-left: 40px;
+    height: 95px;
+    width: 472px;
+    background-color: #d2d7d3;
+    position: absolute;
+    top: 1330px;
 }
 
 
 .big_box_right {
+    margin-left: 512px;
+    height: 279px;
+    width: 472px;
+    background-color: #abb7b7;
+    position: absolute;
+    top: 1146px;
 }
